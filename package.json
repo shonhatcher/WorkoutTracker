@@ -12,8 +12,21 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
+    "bootstrap": "^4.6.0",
+    "cdn": "^1.1.1",
+    "express": "^4.17.1",
     "mongoose": "^5.3.16",
-    "morgan": "^1.9.1"
-  }
+    "morgan": "^1.9.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shonhatcher/WorkoutTracker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/shonhatcher/WorkoutTracker/issues"
+  },
+  "homepage": "https://github.com/shonhatcher/WorkoutTracker#readme"
 }

@@ -121,7 +121,20 @@ let workoutSeed = [
         sets: 4
       }
     ]
-  }
+  },
+  {
+    day: new Date(new Date().setDate(new Date().getDate() - 1)),
+    exercises: [
+      {
+        type: "resistance",
+        name: "Military Press",
+        duration: 20,
+        weight: 300,
+        reps: 10,
+        sets: 4
+      }
+    ]
+  },
 ];
 
 db.Workout.deleteMany({})
