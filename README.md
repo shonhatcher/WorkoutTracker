@@ -28,4 +28,4 @@ Open a terminal and do a npm install
 
 ## Links
 * Github Repo - https://github.com/shonhatcher/WorkoutTracker
-* Heroku app - https://hidden-sands-45687.herokuapp.com/
+* Heroku app - https://workout-tracker-ucf.herokuapp.com
